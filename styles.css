@@ -8,7 +8,7 @@ body {
 :root {
   --primary-color: #2D7EB6;
   --secondary-color: #FEC141;
-  --blue: #0C457A;
+
 }
 
 .list-non-bullet {
@@ -54,7 +54,7 @@ body {
 .hero .hero-heading {
   text-align: center;
   padding-top: 1rem;
-  color: var(--blue);
+  color: var(--secondary-color);
 }
 
 .hero .heading-inverted {
@@ -82,7 +82,7 @@ body {
   border: 1px solid var(--secondary-color);
   border-radius: 0.5rem;
   background-color: var(--primary-color);
-  color: var(--blue));
+  color: var(--secondary-color);
   font-weight: bold;
   font-size: 1rem;
 }
@@ -91,7 +91,7 @@ body {
   margin: auto;
   display: block;
   text-align: center;
-  color: var(--blue);
+  color: var(--secondary-color);
   font-weight: bold;
   font-size: 1.5rem;
   padding: 1rem;
