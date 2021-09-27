@@ -6,8 +6,8 @@ body {
 }
 
 :root {
-  --primary-color: #F4DD4B;
-  --secondary-color: #F6C616;
+  --primary-color: #2D7EB6;
+  --secondary-color: #FEC141;
   --blue: #0C457A;
 }
 
@@ -30,7 +30,7 @@ body {
 
 .navigation {
   background-color: var(--primary-color);
-  color: var(--blue);
+  color: var(--secondary-color);
   padding: 1.5rem;
   border-bottom-left-radius: 1rem;
 }
